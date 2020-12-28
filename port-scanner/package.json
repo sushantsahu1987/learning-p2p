@@ -1,0 +1,16 @@
+{
+  "name": "port-scanner",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node ."
+  },
+  "keywords": [],
+  "author": "Sushant Sahu <sushant87@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.20",
+    "portscanner": "^2.2.0"
+  }
+}
